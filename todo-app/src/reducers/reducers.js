@@ -7,7 +7,7 @@ export const initialState = [{
   id: Date.now(),
   itemArray:[]
 }]; //this closes initialState
-
+//explain
 export const listReducer = (state, action) => {
   switch(action.type) {
     case "ADD-TODO":
