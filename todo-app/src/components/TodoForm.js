@@ -1,5 +1,5 @@
-import React, {useReducer, useState} from "react";
-import {listReducer, initialState} from "../reducers/listReducer";
+import React, { useReducer, useState } from "react";
+import { listReducer, initialState } from "../reducers/reducers";
 import Todo from "./Todo";
 
 

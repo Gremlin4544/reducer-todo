@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  border-radius: 12px;
+  margin: 5px;
+  padding: 5px 15px;
+  width: auto;
+  border: none;
+  background-color: aqua;
+  color: blue;
+  font-size: large;
+}
+
+.addbtn {
+  margin-right: 1%;
+}
+
+.todotrue {
+  text-decoration: line-through;
+  color: #BE5A88;
+  font-size: 1.5rem;
+}
+
+.todofalse {
+  color: rgb(124, 166, 233);
+}
+
+label {
+  text-transform: uppercase;
+  color: aqua;
+  font-weight: 700;
+  font-size: large;
+  margin-right: 1%;
+}
+
+input {
+  border-radius: 12px;
+  padding: 8px 15px;
+  margin-right: 1%;
+}
